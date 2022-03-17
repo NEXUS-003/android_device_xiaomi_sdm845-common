@@ -204,8 +204,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     org.ifaa.android.manager
 
-PRODUCT_BOOT_JARS += \
-    org.ifaa.android.manager
+#PRODUCT_BOOT_JARS += \
+   #org.ifaa.android.manager
 
 # Input
 PRODUCT_COPY_FILES += \
@@ -378,5 +378,5 @@ PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#PRODUCT_BOOT_JARS += \
+   #WfdCommon
